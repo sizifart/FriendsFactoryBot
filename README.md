@@ -1,0 +1,2 @@
+# FriendsFactoryBot
+FriendsFactoryBot App AutoClicker
